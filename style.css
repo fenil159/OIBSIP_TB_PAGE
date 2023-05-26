@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    padding:1% 2%;
+}
+
+.promo-title{
+    font-size: 2rem;
+    font-weight: 600;
+    margin-top: 2rem;
+}
+#start{
+    background-color: black;
+    color:white;
+    height: 20rem;
+}
+
+#start p{
+    padding: 3rem 0 1rem 0;
+    font-family: 'Merriweather', serif;
+}
+#heading{
+    height: 25rem;
+    background-color: white;
+}
+.text-mid-1{
+    padding: 2rem 2rem;
+    font-weight: bold;
+    font-family: 'Roboto Slab', serif;
+}
+
+#cricket{
+    background-color: black;
+    color: white;
+}
+h3{
+    margin-left: 45%;
+    padding: 3% 0 2% 0;
+}
+.para-2{
+    padding:1% 25% 2% 25%;
+    line-height: 1.5rem;
+    font-family: 'Roboto Slab', serif;
+}
+
+
+footer p{
+    text-align: center;
+    padding: 0 0 2% 0;
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+}
+
+@media (max-width: 768px) { 
+
+    .col-md-6{
+        display: column;
+       
+
+    }
+ }
+
+
